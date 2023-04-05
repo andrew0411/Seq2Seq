@@ -11,3 +11,17 @@ torchtext 0.6.0
 
 **Note**
 RTX 2080 Ti 1개를 사용한 결과임
+
+## 
+
+1. Sequence to Sequence Learning with Neural Networks
+
+2. Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation
+
+3. Neural Machine Translation by Jointly Learning to Align and Translate
+
+4. Packed Padded Sequences, Masking, Inference and BLEU
+
+5. Convolutional Sequence to Sequence Learning
+
+6. Attention is All You Need
