@@ -12,7 +12,7 @@ torchtext 0.6.0
 **Note**
 RTX 2080 Ti 1개를 사용한 결과임
 
-## 
+## 목차
 
 1. Sequence to Sequence Learning with Neural Networks
 
